@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TacoSauceDev
 - 👀 I’m interested in programming and learning new stuff
 - 🌱 I’m currently learning python and unity
-- 💞️ I’m looking to collaborate on (what is this thing about?)
+- 💞️ I’m looking to collaborate on any cool unity game!
 - 📫 How to reach me Discord: @Samlexandros#2211, E-Mail: alex.samonakis@gmail.com
 
 <!---
