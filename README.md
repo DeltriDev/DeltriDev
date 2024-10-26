@@ -1,6 +1,6 @@
 Hey there! I'm DeltriDev\
 I'm a high school student with a passion for computers and programming\
-Here you can see my coding projects but also check out [my itch page](https://deltridev.itch.io)\
+Here you can see my coding projects but also check out [my itch page](https://deltridev.itch.io)\ to see my games!
 Discord: @alonealexandros
 <!---
 DeltriDev/DeltriDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
